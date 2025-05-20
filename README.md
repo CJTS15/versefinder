@@ -2,6 +2,10 @@
 
 **VerseFinder** is a clean and intuitive Bible verse lookup tool built with Next.js and Tailwind CSS. It uses the [Bible API](https://bible-api.com) to allow users to search for specific verses, select Bible versions, and copy verses easily.
 
+## 📖 Screenshot
+
+![screenshot](src/assets/screenshot-00.png)
+
 ## 🚀 Features
 
 - 🔍 Search for Bible verses by reference (e.g., `John 3:16`)
