@@ -27,7 +27,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/versefinder.git
+git clone https://github.com/CJTS15/versefinder.git
 cd versefinder
 
 # Install dependencies
